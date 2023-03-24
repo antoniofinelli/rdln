@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=XlAs-Lid-TA - File upload using react hook form. Only used type="file" in my code
+https://github.com/supabase/supabase/discussions/4133 - Assistance in finding out why storage deletion wasn't working in react
+https://www.npmjs.com/package/react-slideshow-image :: slideshow library
